@@ -1,0 +1,1 @@
+MarkArtcl is a tool that extracts content from scientific papers into Markdown, breaks it down into structured notes, and saves them directly into your Obsidian Vault. Its goal is to make reading research papers a more pleasant activity.
